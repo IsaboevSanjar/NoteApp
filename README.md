@@ -1,1 +1,2 @@
-"# NoteApp" 
+"# NoteApp"
+Room DB is used
