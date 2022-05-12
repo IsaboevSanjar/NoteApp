@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:centerColor="@color/passcode_navi"
+        android:endColor="@color/passcode_navi"
+        android:startColor="@color/passcode_navi" />
+</shape>
